@@ -27,3 +27,6 @@ Chemical features such as acidity and alcohol level play a significant role in p
 
 ## Author
 Erida Gjana
+## Live Report
+View the full HTML analysis here:
+https://eridagjana.github.io/wine-quality-prediction/
